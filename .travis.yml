@@ -2,11 +2,11 @@ language: generic
 before_install:
   - wget -O gdrive https://github.com/ikeyasu/gdrive/releases/download/2.1.0_sync-colab/gdrive-linux-x64_sync-colab
   - chmod a+x gdrive && sudo mv gdrive /bin
-  - openssl aes-256-cbc -K $encrypted_864d07311d0e_key -iv $encrypted_864d07311d0e_iv -in .travis/gdrive/token_v2.json.enc -out .travis/gdrive/token_v2.json -d
+  - openssl aes-256-cbc -K $encrypted_b41c0a11630c_key -iv $encrypted_b41c0a11630c_iv -in .travis/gdrive/token_v2.json.enc -out .travis/gdrive/token_v2.json -d
 deploy:
   provider: script
   skip_cleanup: true
-  script: gdrive -c .travis/gdrive sync upload --delete-extraneous . 1SuhBIRiS8VgJ1YCfqV64XqypbHDQb6Tp
+  script: gdrive -c .travis/gdrive sync upload --delete-extraneous . 1GdwW9HmKfKfo6E-K81YKuURh-XheCGDR
   on:
     branch:
       - master
