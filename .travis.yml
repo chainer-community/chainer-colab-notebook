@@ -1,4 +1,8 @@
 language: generic
+branches:
+  only:
+    - master
+    - travis
 before_install:
   - wget -O gdrive https://github.com/ikeyasu/gdrive/releases/download/2.1.0_sync-colab/gdrive-linux-x64_sync-colab
   - chmod a+x gdrive && sudo mv gdrive /bin
@@ -7,7 +11,3 @@ deploy:
   provider: script
   skip_cleanup: true
   script: gdrive -c .travis/gdrive sync upload --delete-extraneous . 1GdwW9HmKfKfo6E-K81YKuURh-XheCGDR
-  on:
-    branch:
-      - master
-      - travis
