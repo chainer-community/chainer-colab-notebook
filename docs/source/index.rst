@@ -4,12 +4,22 @@ Welcome to Chainer Colab Notebook's documentation!
 Hands-on (en)
 --------------
 
+Chainer
+^^^^^^^^^^^
+
 .. toctree::
    :glob:
    :titlesonly:
-   :maxdepth: 4
 
    notebook/hands_on_en/chainer/*
+
+Chainer RL
+^^^^^^^^^^^
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
    notebook/hands_on_en/chainerrl/*
 
 Official Example (en)
@@ -24,12 +34,23 @@ Official Example (en)
 Hands-on (ja)
 --------------
 
+Chainer
+^^^^^^^^^^^
+
 .. toctree::
    :glob:
    :titlesonly:
-   :maxdepth: 4
 
-   notebook/hands_on_en
+   notebook/hands_on_ja/chainer/*
+
+Chainer RL
+^^^^^^^^^^^
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   notebook/hands_on_ja/chainerrl/*
 
 Official Example (ja)
 ----------------------
