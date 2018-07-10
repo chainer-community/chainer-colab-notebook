@@ -31,36 +31,6 @@ Official Example (en)
 
    notebook/official_example_en/*
 
-Hands-on (ja)
---------------
-
-Chainer
-^^^^^^^^^^^
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/hands_on_ja/chainer/*
-
-Chainer RL
-^^^^^^^^^^^
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/hands_on_ja/chainerrl/*
-
-Official Example (ja)
-----------------------
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/official_example_ja/*
-
 Indices and tables
 ==================
 
