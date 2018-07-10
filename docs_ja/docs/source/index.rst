@@ -1,6 +1,5 @@
 Welcome to Chainer Colab Notebook's documentation!
 ==================================================
-
 Hands-on (ja)
 --------------
 
