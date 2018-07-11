@@ -1,8 +1,8 @@
 Welcome to Chainer Colab Notebook's documentation!
 ==================================================
 
-Hands-on (ja)
---------------
+Hands-on 
+----------
 
 Chainer
 ^^^^^^^^^^^
@@ -22,8 +22,8 @@ Chainer RL
 
    notebook/hands_on_ja/chainerrl/*
 
-Official Example (ja)
-----------------------
+Official Example 
+------------------
 
 .. toctree::
    :glob:
