@@ -24,7 +24,6 @@ def html_page_context(app, pagename, templatename, context, doctree):
     show_url = get_colaboratory_url(path)
 
     context['show_on_colaboratory_url'] = show_url
-    print(show_url)
 
 
 def setup(app):
