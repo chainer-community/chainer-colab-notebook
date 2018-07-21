@@ -1,9 +1,0 @@
-.gitignore
-.gdriveignore
-.travis
-.travis.yml
-.git
-.DS_Store
-.*.swp
-*~
-.dpl
