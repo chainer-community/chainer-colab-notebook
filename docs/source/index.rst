@@ -1,6 +1,9 @@
 Welcome to Chainer Colab Notebook!
 ===================================
 
+You can run notebooks on Colaboratory as soon as you can click the link of
+"Show on Colaboratory" of each page.
+
 Hands-on
 ---------
 

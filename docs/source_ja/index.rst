@@ -1,6 +1,9 @@
 Chainer Colab Notebookへようこそ
 ==================================================
 
+各ページの「Show on Colaboratory」をクリックすれば、
+今すぐにnotebookをColaboratoryで実行することができます。
+
 Hands-on 
 ----------
 
