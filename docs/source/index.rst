@@ -1,5 +1,5 @@
-Welcome to Chainer Colab Notebook's documentation!
-==================================================
+Welcome to Chainer Colab Notebook!
+===================================
 
 Hands-on
 ---------
@@ -30,6 +30,18 @@ Official Example
    :titlesonly:
 
    notebook/official_example_en/*
+
+Ohter Examples
+---------------
+
+CuPy
+^^^^^
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   notebook/example/cupy/prml/*
 
 Indices and tables
 ==================
