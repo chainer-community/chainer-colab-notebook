@@ -1,5 +1,8 @@
-Welcome to Chainer Colab Notebook's documentation!
-==================================================
+Welcome to Chainer Colab Notebook!
+===================================
+
+You can run notebooks on Colaboratory as soon as you can click the link of
+"Show on Colaboratory" of each page.
 
 Hands-on
 ---------
@@ -30,6 +33,18 @@ Official Example
    :titlesonly:
 
    notebook/official_example_en/*
+
+Ohter Examples
+---------------
+
+CuPy
+^^^^^
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   notebook/example/cupy/prml/*
 
 Indices and tables
 ==================

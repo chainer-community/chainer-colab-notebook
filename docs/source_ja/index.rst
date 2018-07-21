@@ -1,5 +1,8 @@
-Welcome to Chainer Colab Notebook's documentation!
+Chainer Colab Notebookへようこそ
 ==================================================
+
+各ページの「Show on Colaboratory」をクリックすれば、
+今すぐにnotebookをColaboratoryで実行することができます。
 
 Hands-on 
 ----------
@@ -30,6 +33,18 @@ Official Example
    :titlesonly:
 
    notebook/official_example_ja/*
+
+Ohter Examples
+---------------
+
+CuPy
+^^^^^
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   notebook/example/cupy/prml/*
 
 Indices and tables
 ==================
