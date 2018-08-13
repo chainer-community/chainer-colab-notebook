@@ -102,3 +102,7 @@ ENV/
 
 # Mac
 .DS_Store
+
+# for this repo
+notebook/
+notebook_ja/
