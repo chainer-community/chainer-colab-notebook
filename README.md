@@ -20,10 +20,8 @@ See detail of [Colaboratory FAQ](https://research.google.com/colaboratory/faq.ht
 1. Access [Chainer Colab Notebook](https://chainer-colab-notebook.readthedocs.io/en/latest/) on ReadTheDocs.
 
 2. Find the notebook you want to start.
-<img width="1123" alt="2018-03-12 22 59 37" src="https://user-images.githubusercontent.com/329257/37696602-3b5e93a0-2d1b-11e8-924f-96301daecb22.png">
 
 3. Click and open with Colaboratory. 
-<img width="470" alt="2018-03-12 23 00 35" src="https://user-images.githubusercontent.com/1277089/37288193-f8caf56a-2649-11e8-81ed-038e7736de75.png">
 
 4. Copy the notebook to your drive.
 <img width="487" alt="2018-03-12 23 01 28" src="https://user-images.githubusercontent.com/1277089/37288044-9d7c53ca-2649-11e8-8b95-207f30347fe0.png">
