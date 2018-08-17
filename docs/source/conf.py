@@ -22,6 +22,18 @@ import sys
 sys.path.insert(0, os.path.abspath('_ext'))
 
 
+# COPY FILES
+import shutil
+
+try:
+    shutil.rmtree('notebook')
+except:
+    pass
+os.mkdir('notebook')
+shutil.copytree('../../hands_on_en', 'notebook/hands_on_en')
+shutil.copytree('../../official_example_en', 'notebook/official_example_en')
+shutil.copytree('../../example', 'notebook/example')
+
 # -- General configuration ------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
