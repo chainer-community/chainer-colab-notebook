@@ -1,0 +1,7 @@
+language: python
+python:
+    - '3.6'
+before_install:
+  - sudo apt-get install -y pandoc
+install: pip install -q -r requirements.txt
+script: make -C docs html
