@@ -11,7 +11,8 @@
   {%- if show_on_colaboratory_url %}
     <h5></h5>
     <img src="https://pbs.twimg.com/profile_images/969014476841238528/soxZyFnF_400x400.jpg" align="left">
-    <h2><a href="{{ show_on_colaboratory_url }}"
-       rel="nofollow"><font color="white">Show on Colaboratory</font></a></h2>
+    <h2><a href="{{ show_on_colaboratory_url }}" 
+       rel="nofollow"
+       onclick=”ga(‘send’,’event’,’colaboratory-link’,’colaboratory-click’,’’,,{‘nonInteraction’:1});”><font color="white">Show on Colaboratory</font></a></h2>
   {%- endif %}
 {%- endif %}
