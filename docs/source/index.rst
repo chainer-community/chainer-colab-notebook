@@ -4,8 +4,18 @@ Welcome to Chainer Colab Notebook!
 You can run notebooks on Colaboratory as soon as you can click the link of
 "Show on Colaboratory" of each page.
 
-Hands-on
----------
+Chainer Begginer's Hands-on
+----------------------------
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   notebook/hands_on_en/chainer/begginers_hands_on/*
+
+
+Other Hands-on
+---------------
 
 Chainer
 ^^^^^^^^^^^
