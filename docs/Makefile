@@ -19,10 +19,10 @@ help:
 %: Makefile
 	mkdir -p source/notebook
 	mkdir -p source_ja/notebook
-	cp -r ../hands_on_en source/notebook/hands_on_en
+	cp -r ../hands_on_en source/notebook/hands_on
 	cp -r ../example source/notebook/example
-	cp -r ../official_example_en source/notebook/official_example_en
-	cp -r ../hands_on_ja source_ja/notebook/hands_on_ja
+	cp -r ../official_example_en source/notebook/official_example
+	cp -r ../hands_on_ja source_ja/notebook/hands_on
 	cp -r ../example source_ja/notebook/example
-	cp -r ../official_example_ja source_ja/notebook/official_example_ja
+	cp -r ../official_example_ja source_ja/notebook/official_example
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
