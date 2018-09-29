@@ -4,47 +4,19 @@ Chainer Colab Notebookへようこそ
 各ページの「Show on Colaboratory」をクリックすれば、
 今すぐにnotebookをColaboratoryで実行することができます。
 
-Hands-on 
-----------
+.. toctree::
+   :maxdepth: 2
+   :caption: Hands-on
 
-Chainer
-^^^^^^^^^^^
+   begginers_hands_on
+   other_hands_on
 
 .. toctree::
-   :glob:
-   :titlesonly:
+   :maxdepth: 2
+   :caption: Examples
 
-   notebook/hands_on_ja/chainer/*
-
-Chainer RL
-^^^^^^^^^^^
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/hands_on_ja/chainerrl/*
-
-Official Example 
-------------------
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/official_example_ja/*
-
-Ohter Examples
----------------
-
-CuPy
-^^^^^
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/example/cupy/prml/*
+   official_examples
+   other_examples
 
 Indices and tables
 ==================

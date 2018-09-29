@@ -7,28 +7,17 @@ You can run notebooks on Colaboratory as soon as you can click the link of
 
 .. toctree::
    :maxdepth: 2
-   :caption: Chainer Begginer's Hands-on
+   :caption: Hands-on
 
    begginers_hands_on
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Other Hands-on
-
    other_hands_on
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Official Examples
+   :maxdepth: 2
+   :caption: Examples
 
    official_examples
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Other Examples
-
    other_examples
-
 
 Indices and tables
 ==================

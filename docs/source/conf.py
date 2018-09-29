@@ -30,8 +30,8 @@ try:
 except:
     pass
 os.mkdir('notebook')
-shutil.copytree('../../hands_on_en', 'notebook/hands_on_en')
-shutil.copytree('../../official_example_en', 'notebook/official_example_en')
+shutil.copytree('../../hands_on_en', 'notebook/hands_on')
+shutil.copytree('../../official_example_en', 'notebook/official_example')
 shutil.copytree('../../example', 'notebook/example')
 
 # -- General configuration ------------------------------------------------
