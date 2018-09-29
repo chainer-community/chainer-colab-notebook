@@ -4,57 +4,31 @@ Welcome to Chainer Colab Notebook!
 You can run notebooks on Colaboratory as soon as you can click the link of
 "Show on Colaboratory" of each page.
 
-Chainer Begginer's Hands-on
-----------------------------
 
 .. toctree::
-   :glob:
-   :titlesonly:
+   :maxdepth: 2
+   :caption: Chainer Begginer's Hands-on
 
-   notebook/hands_on_en/chainer/begginers_hands_on/*
-
-
-Other Hands-on
----------------
-
-Chainer
-^^^^^^^^^^^
+   begginers_hands_on
 
 .. toctree::
-   :glob:
-   :titlesonly:
+   :maxdepth: 3
+   :caption: Other Hands-on
 
-   notebook/hands_on_en/chainer/*
-
-Chainer RL
-^^^^^^^^^^^
+   other_hands_on
 
 .. toctree::
-   :glob:
-   :titlesonly:
+   :maxdepth: 3
+   :caption: Official Examples
 
-   notebook/hands_on_en/chainerrl/*
-
-Official Example
------------------
+   official_examples
 
 .. toctree::
-   :glob:
-   :titlesonly:
+   :maxdepth: 3
+   :caption: Other Examples
 
-   notebook/official_example_en/*
+   other_examples
 
-Ohter Examples
----------------
-
-CuPy
-^^^^^
-
-.. toctree::
-   :glob:
-   :titlesonly:
-
-   notebook/example/cupy/prml/*
 
 Indices and tables
 ==================
