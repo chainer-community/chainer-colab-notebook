@@ -1,4 +1,4 @@
-Ohter Examples
+Other Examples
 ---------------
 
 CuPy
