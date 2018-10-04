@@ -12,7 +12,7 @@ __licence__ = 'BSD (3 clause)'
 
 
 def get_colaboratory_url(path):
-    fromto = [('hands_on', 'hands_on_en'), ('official_example', 'official_example_en')]
+    fromto = [('hands_on', 'hands_on_ja'), ('official_example', 'official_example_ja')]
     for f, t in fromto:
         if path.startwith(f):
             path = path.replace(f, t, 1)
