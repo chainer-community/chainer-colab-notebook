@@ -21,7 +21,7 @@ def get_colaboratory_url(path):
 
 
 def html_page_context(app, pagename, templatename, context, doctree):
-    path = os.path.relpath(doctree.get('source'), app.builder.srcdir).replace('notebook/', '')
+    path = os.path.relpath(doctree.get('source'), app.builder.srcdir).replace('/notebook/', '')
     show_url = get_colaboratory_url(path)
 
     context['show_on_colaboratory_url'] = show_url
