@@ -1,5 +1,5 @@
-Chainer Colab Notebookへようこそ
-==================================================
+Chainer Colab Notebooks : Deep Learning 実践ノートブック集
+===========================================================
 
 各ページの「Show on Colaboratory」をクリックすれば、
 今すぐにnotebookをColaboratoryで実行することができます。
@@ -18,9 +18,7 @@ Chainer Colab Notebookへようこそ
    official_examples
    other_examples
 
-Indices and tables
-==================
+Other Languages
+================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- `English <https://chainer-colab-notebook.readthedocs.io/en/latest/>`_

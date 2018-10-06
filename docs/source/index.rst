@@ -1,5 +1,5 @@
-Welcome to Chainer Colab Notebook!
-===================================
+Chainer Colab Notebooks : An easy way to learn and use Deep Learning
+=====================================================================
 
 You can run notebooks on Colaboratory as soon as you can click the link of
 "Show on Colaboratory" of each page.
@@ -19,9 +19,7 @@ You can run notebooks on Colaboratory as soon as you can click the link of
    official_examples
    other_examples
 
-Indices and tables
-==================
+Other Languages
+================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+- `日本語 <https://chainer-colab-notebook.readthedocs.io/ja/latest/>`_
