@@ -22,3 +22,8 @@ Other Languages
 ================
 
 - `English <https://chainer-colab-notebook.readthedocs.io/en/latest/>`_
+
+Links
+======
+
+- `GitHub Issues <https://github.com/chainer-community/chainer-colab-notebook/issues>`_
