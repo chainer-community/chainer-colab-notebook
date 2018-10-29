@@ -23,3 +23,8 @@ Other Languages
 ================
 
 - `日本語 <https://chainer-colab-notebook.readthedocs.io/ja/latest/>`_
+
+Links
+======
+
+- `GitHub Issues <https://github.com/chainer-community/chainer-colab-notebook/issues>`_
