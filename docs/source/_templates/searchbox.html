@@ -10,7 +10,9 @@
 {%- if show_source and has_source and sourcename %}
   {%- if show_on_colaboratory_url %}
     <h5></h5>
-    <a href="{{ show_on_colaboratory_url }}" target="_parent">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="210" height="30"/></a>
+    <img src="https://pbs.twimg.com/profile_images/969014476841238528/soxZyFnF_400x400.jpg" align="left">
+    <h2><a href="{{ show_on_colaboratory_url }}" 
+       rel="nofollow"
+       onclick="ga('send', 'event', 'colaboratory', 'click', 'label', 1);"><font color="white">Show on Colaboratory</font></a></h2>
   {%- endif %}
 {%- endif %}
